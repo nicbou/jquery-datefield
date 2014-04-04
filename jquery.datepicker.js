@@ -1,6 +1,5 @@
 /*
 	jQuery date picker
-	2014-02-20
 	Nicolas Bouliane, http://nicolasbouliane.com
 
 	A simple, cross-browser date picker that doesn't suck. Requires moment.js.
@@ -11,7 +10,7 @@
 		<input class='date' type='text'>
 
 	2. Apply the .datepicker() function to this element:
-		$('input.date').dropdown()
+		$('input.date').datepicker()
 	
 */
 ;(function($){
